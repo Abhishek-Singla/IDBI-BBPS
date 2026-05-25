@@ -1,0 +1,6 @@
+{
+  "name": "IDBI Bank BBPS RFP Advisor",
+  "description": "An interactive, full-stack, AI-powered compliance analyzer, eligibility checklist, techno-commercial calculator, and bid draft companion for the IDBI Bank BBPS RFP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
